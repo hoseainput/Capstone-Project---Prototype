@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 276a9db9fc9d55e4f863995bb8df1c98
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 183070
+  packageName: 'Asset Unlock: Backyard'
+  packageVersion: 1.01
+  assetPath: Assets/Unity Asset Unlocks - Backyard/Scenes/ExampleSceneSettings.lighting
+  uploadId: 519979
